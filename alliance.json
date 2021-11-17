@@ -67,6 +67,11 @@
                 "pool_id": "4d9333fceb79761fb826b22395c4bff84740fbfa8af232d6f6944eb7",
                 "member_since": "2021-07-01",
                 "name": "[FAM] Darkartopia Family"
+            },
+			"9": {
+                "pool_id": "682fd73eea4d7370b6f7a781c80b1252817b23f74688cea6257471f3",
+                "member_since": "2021-09-18",
+                "name": "[CHEF] Chef Pool"
             }
         }
     }
